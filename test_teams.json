@@ -1,18 +1,18 @@
 [
   {
     "source": "cloudaccess",
-    "teamname": "abacuspricing",
-    "display_name": "Abacus - Strategic Pricing",
-    "team_distribution_list": "Jeremy_Nelson@cargill.com",
-    "escalation_contact": "Jeremy_Nelson@cargill.com",
+    "teamname": "teamalpha",
+    "display_name": "Team Alpha - Analytics",
+    "team_distribution_list": "alpha_team@example.com",
+    "escalation_contact": "alpha_support@example.com",
     "approved_billing_codes": [
-      "100130489"
+      "123456789"
     ],
     "membership": {
       "maintainers": [
-        "VicenteBarreiro",
-        "MomchilTsonev",
-        "JeremyNelson"
+        "AliceSmith",
+        "BobJones",
+        "CharlieBrown"
       ]
     },
     "environments": [
@@ -23,16 +23,16 @@
   },
   {
     "source": "cloudaccess",
-    "teamname": "aces",
-    "display_name": "ACES DevOps Team",
-    "team_distribution_list": "ashok_palaniswamy@cargill.com",
-    "escalation_contact": "ashok_palaniswamy@cargill.com",
+    "teamname": "teambeta",
+    "display_name": "Team Beta - DevOps",
+    "team_distribution_list": "beta_team@example.com",
+    "escalation_contact": "beta_support@example.com",
     "approved_billing_codes": [
-      "905621"
+      "987654321"
     ],
     "membership": {
       "maintainers": [
-        "AshokPalaniswamy"
+        "DavidMiller"
       ]
     },
     "environments": [
@@ -43,17 +43,17 @@
   },
   {
     "source": "cloudaccess",
-    "teamname": "acesapi",
-    "display_name": "ACES API Team",
-    "team_distribution_list": "john_grochowski@cargill.com",
-    "escalation_contact": "john_grochowski@cargill.com",
+    "teamname": "teamgamma",
+    "display_name": "Team Gamma - APIs",
+    "team_distribution_list": "gamma_team@example.com",
+    "escalation_contact": "gamma_support@example.com",
     "approved_billing_codes": [
-      "905416"
+      "456789123"
     ],
     "membership": {
       "maintainers": [
-        "JohnGrochowski",
-        "CorySchumacher"
+        "EveJohnson",
+        "FrankLee"
       ]
     },
     "environments": [
@@ -64,20 +64,20 @@
   },
   {
     "source": "cloudaccess",
-    "teamname": "acescloudassessment",
-    "display_name": "ACES Cloud Migraiton and Assessment Team",
-    "team_distribution_list": "cloud_discovery@cargill.com",
-    "escalation_contact": "Ayman_Nasser@cargill.com",
+    "teamname": "teamdelta",
+    "display_name": "Team Delta - Cloud Assessment",
+    "team_distribution_list": "delta_team@example.com",
+    "escalation_contact": "delta_support@example.com",
     "approved_billing_codes": [
-      "905416"
+      "321654987"
     ],
     "membership": {
       "maintainers": [
-        "JamesChristensen",
-        "PaulWhitney",
-        "ChanderGanesan",
-        "YugalGiri",
-        "Habibur-RahmanA"
+        "GraceKim",
+        "HenryWang",
+        "IsabelNguyen",
+        "JackThompson",
+        "LiamWhite"
       ]
     },
     "environments": [
