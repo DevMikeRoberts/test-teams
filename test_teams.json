@@ -1,0 +1,134 @@
+[
+  {
+    "source": "cloudaccess",
+    "teamname": "abacuspricing",
+    "display_name": "Abacus - Strategic Pricing",
+    "team_distribution_list": "Jeremy_Nelson@cargill.com",
+    "escalation_contact": "Jeremy_Nelson@cargill.com",
+    "approved_billing_codes": [
+      "100130489"
+    ],
+    "membership": {
+      "maintainers": [
+        "VicenteBarreiro",
+        "MomchilTsonev",
+        "JeremyNelson"
+      ]
+    },
+    "environments": [
+      "dev",
+      "stage",
+      "prod"
+    ]
+  },
+  {
+    "source": "cloudaccess",
+    "teamname": "aces",
+    "display_name": "ACES DevOps Team",
+    "team_distribution_list": "ashok_palaniswamy@cargill.com",
+    "escalation_contact": "ashok_palaniswamy@cargill.com",
+    "approved_billing_codes": [
+      "905621"
+    ],
+    "membership": {
+      "maintainers": [
+        "AshokPalaniswamy"
+      ]
+    },
+    "environments": [
+      "dev",
+      "stage",
+      "prod"
+    ]
+  },
+  {
+    "source": "cloudaccess",
+    "teamname": "acesapi",
+    "display_name": "ACES API Team",
+    "team_distribution_list": "john_grochowski@cargill.com",
+    "escalation_contact": "john_grochowski@cargill.com",
+    "approved_billing_codes": [
+      "905416"
+    ],
+    "membership": {
+      "maintainers": [
+        "JohnGrochowski",
+        "CorySchumacher"
+      ]
+    },
+    "environments": [
+      "dev",
+      "stage",
+      "prod"
+    ]
+  },
+  {
+    "source": "cloudaccess",
+    "teamname": "acescloudassessment",
+    "display_name": "ACES Cloud Migraiton and Assessment Team",
+    "team_distribution_list": "cloud_discovery@cargill.com",
+    "escalation_contact": "Ayman_Nasser@cargill.com",
+    "approved_billing_codes": [
+      "905416"
+    ],
+    "membership": {
+      "maintainers": [
+        "JamesChristensen",
+        "PaulWhitney",
+        "ChanderGanesan",
+        "YugalGiri",
+        "Habibur-RahmanA"
+      ]
+    },
+    "environments": [
+      "dev",
+      "stage",
+      "prod"
+    ]
+  },
+  {
+    "source": "cloudaccess",
+    "teamname": "acescommonservices",
+    "display_name": "ACES Common Services",
+    "team_distribution_list": "-globalit-aces-cloud-blr@cargill.com",
+    "escalation_contact": "Sucharita_Prabhakar@cargill.com",
+    "approved_billing_codes": [
+      "638328"
+    ],
+    "membership": {
+      "maintainers": [
+        "SucharitaPrabhakar",
+        "BhaskarErukula",
+        "NishantVerma",
+        "AvaySingh",
+        "SivaranjaniKarunagaran"
+      ]
+    },
+    "environments": [
+      "dev",
+      "stage",
+      "prod"
+    ]
+  },
+  {
+    "source": "cloudaccess",
+    "teamname": "acesmobileengineering",
+    "display_name": "ACES Mobile Engineering",
+    "team_distribution_list": "andrew_david@cargill.com",
+    "escalation_contact": "andrew_david@cargill.com",
+    "approved_billing_codes": [
+      "905290"
+    ],
+    "membership": {
+      "maintainers": [
+        "AndrewDavid",
+        "GlennCaspers"
+      ]
+    },
+    "environments": [
+      "dev",
+      "stage",
+      "prod"
+    ]
+  }
+]
