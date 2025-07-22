@@ -85,50 +85,5 @@
       "stage",
       "prod"
     ]
-  },
-  {
-    "source": "cloudaccess",
-    "teamname": "acescommonservices",
-    "display_name": "ACES Common Services",
-    "team_distribution_list": "-globalit-aces-cloud-blr@cargill.com",
-    "escalation_contact": "Sucharita_Prabhakar@cargill.com",
-    "approved_billing_codes": [
-      "638328"
-    ],
-    "membership": {
-      "maintainers": [
-        "SucharitaPrabhakar",
-        "BhaskarErukula",
-        "NishantVerma",
-        "AvaySingh",
-        "SivaranjaniKarunagaran"
-      ]
-    },
-    "environments": [
-      "dev",
-      "stage",
-      "prod"
-    ]
-  },
-  {
-    "source": "cloudaccess",
-    "teamname": "acesmobileengineering",
-    "display_name": "ACES Mobile Engineering",
-    "team_distribution_list": "andrew_david@cargill.com",
-    "escalation_contact": "andrew_david@cargill.com",
-    "approved_billing_codes": [
-      "905290"
-    ],
-    "membership": {
-      "maintainers": [
-        "AndrewDavid",
-        "GlennCaspers"
-      ]
-    },
-    "environments": [
-      "dev",
-      "stage",
-      "prod"
-    ]
   }
 ]
