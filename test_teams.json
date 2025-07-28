@@ -61,29 +61,5 @@
       "stage",
       "prod"
     ]
-  },
-  {
-    "source": "cloudaccess",
-    "teamname": "teamdelta",
-    "display_name": "Team Delta - Cloud Assessment",
-    "team_distribution_list": "delta_team@example.com",
-    "escalation_contact": "delta_support@example.com",
-    "approved_billing_codes": [
-      "321654987"
-    ],
-    "membership": {
-      "maintainers": [
-        "GraceKim",
-        "HenryWang",
-        "IsabelNguyen",
-        "JackThompson",
-        "LiamWhite"
-      ]
-    },
-    "environments": [
-      "dev",
-      "stage",
-      "prod"
-    ]
   }
 ]
