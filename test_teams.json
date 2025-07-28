@@ -40,26 +40,5 @@
       "stage",
       "prod"
     ]
-  },
-  {
-    "source": "cloudaccess",
-    "teamname": "teamgamma",
-    "display_name": "Team Gamma - APIs",
-    "team_distribution_list": "gamma_team@example.com",
-    "escalation_contact": "gamma_support@example.com",
-    "approved_billing_codes": [
-      "456789123"
-    ],
-    "membership": {
-      "maintainers": [
-        "EveJohnson",
-        "FrankLee"
-      ]
-    },
-    "environments": [
-      "dev",
-      "stage",
-      "prod"
-    ]
   }
 ]
